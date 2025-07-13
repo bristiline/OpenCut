@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left" width="120">
-      <img src="logo.png" alt="COSCO WEB LOGO" width="100" />
+      <img src="/apps/web/public/logo.png" alt="Opencut" width="100" />
     </td>
     <td align="right">
       <h1>OpenCut <span style="font-size: 0.7em; font-weight: normal;">(prev AppCut)</span></h1>
